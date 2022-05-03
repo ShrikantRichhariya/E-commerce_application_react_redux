@@ -1,3 +1,22 @@
+(1).This is a simple e-commerce website with favicon and logo inserted ----logo is functional too and can help you to reach main page. 
+
+(2).In this you will see the list of products that you can buy. 
+
+(3).These products will contain certain details like: product image, price, name .
+
+(4).by clicking on the image of product you will get some exciting tost messages but dont forget to run---- ***npm i react-toastify***
+
+(5).This website only contains one filter and i.e. price. You can see products having price greater than or equal to 25$ or less than 25$.
+
+(6).filter is enabled on one click and disabled on second click to maintain the check box functionality
+
+(7).On clicking the buy now, product detail page should open.
+
+(8).On details page, by clicking on  the button, add the item to cart item is added to cart you can check cart items
+
+(9).you can increase the cart items and remove the item once removed all it will show cart is empty.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
